@@ -1,9 +1,9 @@
 {
 "configs" : [
   {
-"server" : "45.78.48.253",
-"server_port" : 443,
-"password" : "YzE4YjgxY2",
+"server" : "23.105.200.46",
+"server_port" : 5689,
+"password" : "MzYwZWRhMj",
 "method" : "aes-256-cfb",
 "remarks" : ""}
 

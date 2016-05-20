@@ -5,6 +5,8 @@ var proxy = "__PROXY__";
 
 var rules = [
   ".lsxszzg.com",
+  "http://music.163.com/",
+  "http://*.music.126.net/",
   "|http://85.17.73.31/",
   "||alien-ufos.com",
   "||altrec.com",
