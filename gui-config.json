@@ -2,15 +2,15 @@
 "configs" : [
   {
 "server" : "23.105.200.46",
-"server_port" : 5689,
+"server_port" : 443,
 "password" : "MzYwZWRhMj",
-"method" : "aes-256-cfb",
+"method" : "rc4-md5",
 "remarks" : ""}
 
 ],
 "strategy" : null,
 "index" : 0,
-"global" : false,
+"global" : true,
 "enabled" : true,
 "shareOverLan" : false,
 "isDefault" : false,
