@@ -1,10 +1,10 @@
 {
 "configs" : [
   {
-"server" : "23.105.200.46",
-"server_port" : 443,
-"password" : "MzYwZWRhMj",
-"method" : "rc4-md5",
+"server" : "45.78.48.253",
+"server_port" : 4433,
+"password" : "NWNmNzQ2ZT",
+"method" : "aes-256-cfb",
 "remarks" : ""}
 
 ],
