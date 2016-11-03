@@ -6,6 +6,7 @@ var proxy = "__PROXY__";
 var rules = [
   ".lsxszzg.com",
   "bandwagonhost.com",
+  "s3.amazonaws.com",
   "|http://85.17.73.31/",
   "||alien-ufos.com",
   "||altrec.com",
